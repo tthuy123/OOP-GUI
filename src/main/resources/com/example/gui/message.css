@@ -1,0 +1,57 @@
+#callButton {
+    -fx-graphic: url("./image/telephone.png");
+}
+#videoCallButton {
+    -fx-graphic: url("./image/zoom.png");
+}
+#backButton {
+    -fx-graphic: url("./image/left-arrow.png");
+    -fx-background-color: transparent;
+    -fx-background-radius: 20px;
+}
+#imageButton {
+    -fx-graphic: url("./image/image.png");
+}
+#sendButton {
+    -fx-graphic: url("./image/send.png");
+}
+#voiceButton {
+    -fx-graphic: url("./image/microphone.png");
+}
+.actionButton {
+    -fx-background-color: beige;
+    -fx-background-radius: 20px;
+}
+.callButton {
+    -fx-background-color: #9fd3e0;
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+}
+#mainContent {
+    -fx-background-radius: 20px;
+    -fx-background-color: white;
+    -fx-border-radius: 20px;
+}
+#chatPane {
+    -fx-background-color: #edb4e7;
+}
+.user-bubble {
+    -fx-font-family: Cambria;
+    -fx-background-color: #85C1E9;
+    -fx-padding: 10px;
+    -fx-background-radius: 20px;
+    -fx-border-radius: 20px;
+    -fx-margin-bottom: 10px;
+}
+
+.other-user-bubble {
+    -fx-font-family: Cambria;
+    -fx-background-color: #82E0AA;
+    -fx-padding: 10px;
+    -fx-background-radius: 20px;
+    -fx-border-radius: 20px;
+    -fx-margin-bottom: 10px;
+}
+.left-aligned {
+    -fx-padding: 0 0 0 10px; /* Sử dụng giá trị của lề trái theo ý muốn */
+}
