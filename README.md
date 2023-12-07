@@ -1,3 +1,9 @@
+# Infomation
+MSV: 22028297
+
+Name: Trần Thu Thủy
+
+Class: 8
 # OOP-GUI
 Repo for OOP advanced GUI class
 # Demo
